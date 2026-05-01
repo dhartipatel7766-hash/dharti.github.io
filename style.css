@@ -424,7 +424,7 @@ img{max-width:100%}
   .footer-inner{flex-direction:column;text-align:center}
 }
 .photo-inner {
-  width: 400px;
+  width: 500px;
   height: 300px;
   border-radius: 50%;
   overflow: hidden;
